@@ -1,4 +1,4 @@
-This respository contains code to control Dynamixel H54-100-S500-R, H54-200-S500-R, and H42-20-S300-R actuators.
+This respository contains code to control Dynamixel H54-100-S500-R (large), H54-200-S500-R (large), and H42-20-S300-R (small) actuators.
 
 Resources:
 https://emanual.robotis.com/docs/en/dxl/protocol2/
